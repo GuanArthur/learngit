@@ -1,1 +1,1 @@
-Test git diff command.
+This line's target is to test git diff command.
